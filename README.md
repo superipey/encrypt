@@ -21,3 +21,7 @@ Encrypting &amp; Decrypting with OpenSSL for Pemrograman Web Dinamis Kelas XII
 - Ketika game sudah mulai, akan muncul Contoh Soal, silakan dikerjakan dengan menebak cipher method yang digunakan dan salt yang digunakan, setelah berhasil menebak maka akan muncul cipher text level 1 (Plain text yang sudah di shift), silakan tebak cipher text tersebut sampai didapatkan Plain Text. Jika sudah mendapatkan plain text, submit jawaban di kolom Answer.
 - Siapa yang paling cepat menjawab pertanyaan tersebut maka akan mendapatkan score dan pertanyaan tersebut akan hilang dan diganti dengan pertanyaan lain.
 - Hanya satu soal yang akan muncul sampai soal tersebut dijawab, setelah dijawab akan muncul satu soal berikutnya (random)
+- Satu siswa maksimal menjawab 10 soal
+- Score tertinggi akan mendapatkan nilai tertinggi dikelas
+
+Selamat bermain :)
